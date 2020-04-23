@@ -6,3 +6,7 @@
 
 * 引用`/src/Lib/fastjson-1.2.68.jar`
 * 运行`/src/com/jxnu/Main.java`
+
+效果图：
+
+![](https://raw.githubusercontent.com/axh2018/picgo_picture/master/20200423093119.png)
